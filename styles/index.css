@@ -1,0 +1,26 @@
+.hero .card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.css-blog-grid .card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.owl-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.owl-prev {
+    font-size: 20px;
+}
+
+.owl-next {
+    font-size: 53px;
+}
+
+.category div {
+    /* width: fit-content; */
+}
